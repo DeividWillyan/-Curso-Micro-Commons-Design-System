@@ -1,17 +1,17 @@
 name: micro_commons_design_system
 description: A new Flutter package project.
-version: 1.0.0
+version: 1.0.1
 homepage:
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  golden_toolkit: 0.8.0
+  golden_toolkit: 0.9.0
 
 dev_dependencies:
   flutter_test:
